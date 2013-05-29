@@ -7,9 +7,9 @@ en œuvre pour faire se rencontrer les individus et le Web.
 
 ## Manifesto
 
-Le *manifeste* de Sud Web représente nos valeurs et nos engagements.
+Le [manifeste de Sud Web](MANIFESTO.md) représente nos valeurs et nos engagements.
 
 ## Pré-requis
 
-Les *pré-requis* listent les besoins nécessaires à l'organisation
+Les [pré-requis](PREREQUISITES.md) listent les besoins nécessaires à l'organisation
 d'une édition de Sud Web dans une ville de France et de Navarre.
