@@ -3,10 +3,11 @@
 * Trouver une ville avec une salle
 * Capacité d'accueil hébergement
 * Condition d'accès (train, avion, voiture)
+* Favoriser au maximum la marche à pied/déplacements brefs
 
 # SALLES
 
-## Conférences
+## Conférences (Vendredi)
 
 * Salle pour 200 personnes
 * Accès handicapés
@@ -19,10 +20,10 @@
 * Salle annexe pour accueil
 * Vestiaire
 
-## Ateliers
+## Élaboratoires (Samedi)
 
 * Lieu avec salles multiples
-* Wifi disponible
+* Wi-Fi disponible
 * Déjeuner possible sur place ou proche
 * Prises de courant et multiprises
 
@@ -30,7 +31,7 @@
 
 * Définir les dates de début et de fin de l'appel
 * Organiser la journée
-* salle avec wifi
+* Salle avec Wi-Fi
 * Définir les sujets (conférences + ateliers)
 * Choisir quelques sujets en back-up
 
@@ -77,6 +78,10 @@
 # SPONSORS
 
 # GOODIES
+
+* Encombrement minimum
+* Grande durée d'utilisation
+* Coût environnemental réduit (matérieux recyclables, recyclable)
 
 # LOGISTIQUE
 
