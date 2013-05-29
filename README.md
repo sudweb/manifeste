@@ -11,5 +11,5 @@ Le [manifeste de Sud Web](MANIFESTO.md) représente nos valeurs et nos engagemen
 
 ## Pré-requis
 
-Les [pré-requis](PREREQUISITES.md) listent les besoins nécessaires à l'organisation
+Les [pré-requis](REQUIREMENTS.md) listent les besoins nécessaires à l'organisation
 d'une édition de Sud Web dans une ville de France et de Navarre.
