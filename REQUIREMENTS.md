@@ -3,7 +3,7 @@
 * Trouver une ville avec une salle
 * Capacité d'accueil hébergement
 * Condition d'accès (train, avion, voiture)
-* Favoriser au maximum la marche à pied/déplacements brefs
+* Favoriser au maximum la marche à pied/les déplacements brefs
 
 # SALLES
 
@@ -11,7 +11,7 @@
 
 * Salle pour 200 personnes
 * Accès handicapés
-* Micros sur place
+* Micros sur place (2 micros casque + au moins 1 (2 mieux) micros main)
 * Accès Internet pour les orateurs
 * Projection
 * Capture vidéo possible
@@ -52,14 +52,14 @@
 * Vente des places soirée communautaire
 * Info des jours J
 * Feedback + remerciements à J+1
-* Publication des vidéos
+* Publication des vidéos et photos
 
 # NEWSLETTERS
 
 ## Tous les abonnés
 
 * Prévenir de la ville, des dates et de l'ouverture de l'appel à orateur
-* Prévenir du programme et de l'ouverture des ventes (+ modalités pratiques de transports et hébergement) (+ relance éventuelle)
+* Prévenir du programme et de l'ouverture des ventes (+ modalités pratiques de transports et hébergement) (+ DIF si maintenu) (+ relance éventuelle)
 
 ## Inscrits
 
