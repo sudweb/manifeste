@@ -1,40 +1,24 @@
-# Manifeste Sud Web
+# SUD WEB MANIFESTO
 
-## Version verbeuse
+This is our manifest, the core values that we promote and share:
 
-Nous, Thym Members Sud Web, déclarons vouloir travailler en équipe dans le but de partager notre passion pour le Web.
+1. **Go and meet** new people each year in a different city.
+2. **Be a small, human-sized** event, keep it under 200 attendees.
+3. **Gather diversity**, build a common web culture.
+4. **Support parity**, auto-organisation, small teams.
+5. **Invite** inspiring, creative, funny, young people.
+6. **Be kind** and convivial with everyone. Include everyone.
+7. **Learn** from other fields: culture, research, law, journalism…
+8. **Share** our experiences, our savoir-faire.
+9. **Live **a common experience, through a unique set of conferences.
+10. **Rethink** our mission, our jobs.
+11. **Give meaning** to our actions.
+12. **Build** confidence.
+13. **Think**. Together. Debate.
+14. **Experiment**. Try. Always.
+15. **Tell** our story, our fears, our joys. Be sincere.
+16. **Provide** healthy food and useful goodies.
 
-Pour cela nous organisons une conférence annuelle dans une ville différente d'une année à l'autre, réunissant au plus 150 personnes.  
-Sur deux jours, nous proposons deux temps bien distincts : une première journée de conférences plénières courtes −20 minutes maximum− en mono-session, et une deuxième privilégiant les échanges et les réalisations en plus petits groupes.
+--- The Sud Web Team, 2016.
 
-Notre volonté est également d'accueillir tout le monde −participants et orateurs− dans un esprit sincère de convivialité et de franche camaraderie.  
-Sans jamais oublier l'importance de nos choix éditoriaux, nous essayerons chaque fois d'expérimenter de nouvelles choses pour surprendre nos participants.
-
-
-## Version liste
-
-Nous, Thym Members Sud Web, déclarons :
-
-- travailler en équipe pour partager notre passion pour le Web ;
-- organiser une conférence annuelle ;
-- changer de ville chaque année ;
-- réunir 150 personnes maximum ;
-- organiser une journée de conférences courtes (20 minutes maxi) en mono-session ;
-- ne jamais oublier l'importance du programme sélectionné ;
-- une deuxième journée plus ouverte pour parler et faire, en plus petits groupes ;
-- accueillir les gens à bras ouverts et les chouchouter ;
-- essayer d'expérimenter de nouvelles choses et surprendre.
-
-
-## Version ultra light
-
-- une équipe
-- une conf/an
-- une ville/an
-- 150 personnes max (tout inclus)
-- programme solide
-- conférences courtes (20 min max)
-- mono-session
-- ateliers participatifs
-- accueil et accompagnement
-- ouverture
+Amanda, Bertrand, Enza, Frank, Loïc, Mathieu, Nathalie, Thomas.
