@@ -10,7 +10,7 @@ This is our manifest, the core values that we promote and share:
 6. **Be kind** and convivial with everyone. Include everyone.
 7. **Learn** from other fields: culture, research, law, journalism…
 8. **Share** our experiences, our savoir-faire.
-9. **Live **a common experience, through a unique set of conferences.
+9. **Live** a common experience, through a unique set of conferences.
 10. **Rethink** our mission, our jobs.
 11. **Give meaning** to our actions.
 12. **Build** confidence.
