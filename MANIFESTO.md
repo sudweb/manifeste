@@ -3,7 +3,7 @@
 This is our manifest, the core values that we promote and share:
 
 1. **Go and meet** new people each year in a different city.
-2. **Be a small, human-sized** event, keep it under 200 attendees.
+2. **Be a small, human-sized** event, keep it around 150 attendees.
 3. **Gather diversity**, build a common web culture.
 4. **Support parity**, auto-organisation, small teams.
 5. **Invite** inspiring, creative, funny, young people.
