@@ -21,4 +21,4 @@ Voici les valeurs que nous partageons et véhiculons :
 
 -- La thym Sud Web, 2016.
 
-Amanda, Bertrand, Enza, Frank, Loïc, Mathieu, Nathalie, Thomas.
+Amanda, Bertrand, Enza, Frank, Loïc, Matthieu, Nathalie, Thomas.
